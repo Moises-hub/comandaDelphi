@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/03 16:02:56.000.096,=D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/03 16:03:44.000.487,D:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/08/03 16:03:44.000.487,D:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/08/03 16:03:53.000.790,D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\coliseucomanda.dproj</Transaction>
+    <Transaction>2022/08/03 16:05:11.000.024,=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\Unit2.pas</Transaction>
+    <Transaction>2022/08/03 16:05:31.000.464,E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\Unit2.pas=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\UFrmImagem.pas</Transaction>
+    <Transaction>2022/08/03 16:05:31.000.464,E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\Unit2.dfm=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\servico\UFrmImagem.dfm</Transaction>
+    <Transaction>2022/08/03 16:31:04.000.636,=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\controller\UController.pas</Transaction>
+    <Transaction>2022/08/03 16:31:14.000.587,=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\controller\UImprimir.pas</Transaction>
+    <Transaction>2022/08/03 16:31:25.000.829,=E:\Delphi_Projetos\Coliseu_Comanda\App\horse\controller\ULancamento.pas</Transaction>
+  </Transactions>
+</BorlandProject>
